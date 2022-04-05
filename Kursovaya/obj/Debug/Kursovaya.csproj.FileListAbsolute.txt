@@ -1,0 +1,185 @@
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe.config
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\bin\Debug\Kursovaya.pdb
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Main.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ТипыАвтомобилей.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.exe
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.pdb
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Виды_штрафов.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Клиенты.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Автомобили.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ШтрафыПоПрокату.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Выдача.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ПоискШтрафов.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ПросмотрВыдач.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ПоискКлиентов.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ПоискАвтомобилей.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Пользователи.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Авторизация.resources
+F:\Visual\C#\Alexey\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Справка.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe.config
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Kursovaya.pdb
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Main.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Автомобили.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Авторизация.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Виды_штрафов.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Выдача.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Клиенты.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ПоискАвтомобилей.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ПоискКлиентов.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ПоискШтрафов.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Пользователи.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ПросмотрВыдач.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Справка.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ТипыАвтомобилей.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ШтрафыПоПрокату.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.exe
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.pdb
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\EnvDTE.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\stdole.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\Microsoft.MSXML.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Чек.resources
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\RdlCompile.cache
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\RdlCompile.compiled
+F:\Колляга\Курсовые\Алексей Надольский\КПиЯП\Диск\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.CopyComplete
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe.config
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Kursovaya.exe
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Kursovaya.pdb
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\EnvDTE.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\stdole.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\Microsoft.MSXML.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Main.resources
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.CopyComplete
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.exe
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.pdb
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ВыборМашины.resources
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.tesla.resources
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.mercedes.resources
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.procat.resources
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.оформлениеЗаказа.resources
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ВыборМашины2.resources
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.Lamborghini.resources
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.форма.resources
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.ВходикАдмина.resources
+D:\шарага\2сем\Kursovaya\Kursovaya\obj\Debug\Kursovaya.csproj.ResolveComReference.cache
